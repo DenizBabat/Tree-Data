@@ -43,12 +43,14 @@ public class Tree26 {
 
     }
 
-    public void foo()
+    //For Test two funciton
+    public void test()
     {
         trees.get(0).setIndexUrl("ba",5);
     }
 
     public  void display() {
         System.out.println(trees.get(0).find("ba").get(0));
+
     }
 }

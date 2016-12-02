@@ -11,9 +11,10 @@ public class Main {
 
         Tree26 tree26 = new Tree26();
 
-        for (int i = 0; i < 5; i++) {
-            
-        }
+        tree26.test();
+        tree26.display();
+
+        System.out.println("END");
 
     }
 }
