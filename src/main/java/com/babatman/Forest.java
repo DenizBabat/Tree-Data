@@ -5,11 +5,11 @@ import java.util.ArrayList;
 /**
  * Created by deniz on 06.11.2016.
  */
-public class Tree26 {
+public class Forest {
 
     private ArrayList<Tree<String>> trees = new ArrayList<Tree<String>>();
 
-    public Tree26() {
+    public Forest() {
         int headCar = 97;
         int startCar = 97;
         int height = 25;
